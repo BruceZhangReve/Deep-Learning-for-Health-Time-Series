@@ -1,4 +1,4 @@
-# Deep Learning for Health Time Series
+# Deep Learning for Health Time Series: Physiological Signals, Clinical Records, and Epidemic Dynamics
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
