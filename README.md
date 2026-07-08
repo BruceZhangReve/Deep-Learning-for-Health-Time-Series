@@ -20,11 +20,6 @@ Health time series (HTS) capture dynamic health processes at three levels: **phy
 | **Sample Scarcity** | Task-specific samples are often limited, requiring cross-task pre-training, transfering, and target-domain generalization | **Foundation Models, Transfer Adaptation, and Generative Models** |
 | **Information Scarcity** | Time series alone provide only a partial view of the underlying health state | **Multi-Modal Learning** |
 
-## Link Convention
-
-- `paper`, `arXiv`, or `doi` points to a direct paper/proceedings/preprint/publisher page when available from the manuscript bibliography, existing README links, or manual verification.
-- `scholar` is used only when no stable direct paper page was available from the provided materials; it opens a title-based Google Scholar search rather than an invented URL.
-- Paper lists are formatted as `Title | Venue | Date | Paper_Link` and sorted by year in ascending order within each subsection.
 
 ## Table of Contents
 
