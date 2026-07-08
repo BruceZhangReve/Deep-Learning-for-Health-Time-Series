@@ -41,7 +41,7 @@ Health time series (HTS) capture dynamic health processes at three levels: **phy
 This repository follows the survey methodology used in the manuscript. We conducted a systematic literature review to synthesize recent progress in deep learning for health time series, with an emphasis on organizing the literature by **data category**, **modeling challenge**, and **methodological paradigm** rather than by a single disease, modality, or clinical task.
 
 <p align="center">
-  <img src="./figures/survey_method.png" alt="Survey methodology and literature statistics" width="95%" />
+  <img src="./figures/paper_count.png" alt="Survey methodology and literature statistics" width="95%" />
 </p>
 
 The search mainly covered papers published from **2016 to May 2026**, with the final search update completed in **May 2026**. We searched major academic databases and publication platforms, including **Google Scholar**, **PubMed**, **ACM Digital Library**, **IEEE Xplore**, **ACL Anthology**, **arXiv**, **medRxiv**, and **OpenReview**.
