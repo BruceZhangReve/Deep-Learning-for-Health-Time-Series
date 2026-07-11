@@ -2,9 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-A curated repository for the survey **Deep Learning for Health Time Series: Physiological Signals, Clinical Records, and Epidemic Dynamics** (under review).
-
-This README is aligned with the manuscript citations rather than the full BibTeX file: only papers cited in the active `.tex` manuscript are listed, while unused BibTeX entries are excluded.
+A curated repository for the survey **Deep Learning for Health Time Series: Physiological Signals, Clinical Records, and Epidemic Dynamics** (under review). The current manuscript can be found in [Pre-Print](https://www.cs.emory.edu/~wjin30/files/ts4health.pdf)
 
 <p align="center">
   <img src="./figures/tx_tree.png" alt="Taxonomy Tree" width="90%" />
